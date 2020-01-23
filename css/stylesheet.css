@@ -1,10 +1,6 @@
-* {
+body {
 	font-family: Lucida Grande, Sans-Serif;
 	color: white;
-	background-color: black;
-}
-
-header {
 	background-color: black;
 }
 
@@ -38,7 +34,6 @@ div {
 }
 
 footer {
-	background-color: black;
 	text-align: right;
 	padding-bottom: 10px;
 	padding-right: 10px;
